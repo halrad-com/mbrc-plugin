@@ -8,7 +8,6 @@ MusicBee Remote Control Plugin
 
   Part of [HALRAD Research](https://halrad.com)
 
-  mbrc-plugin/README.md:
   # MusicBee Remote Control Plugin
 
   **[More info](https://halrad.com/MBXRemote/plugin.html)**
