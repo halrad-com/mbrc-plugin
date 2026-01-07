@@ -16,9 +16,22 @@
 
   ## Changes from original
 
-  - Maintained fork with bug fixes and updates
+  - Maintained fork with new features and updates
   - Compatible with latest MusicBee versions
+    
+
+# Designed for MBXRemote
+
+  Windows desktop client for MusicBee Remote Plugin.
+
+  **[Download & Documentation](https://halrad.com/MBXRemote/)**
+
+  Part of [HALRAD Research](https://halrad.com)
+
+  # MusicBee Remote Control Plugin
+
+  **[More info](https://halrad.com/MBXRemote/plugin.html)**
 
   ## Credits
 
-  Original plugin by [Konstantinos Paparas](https://github.com/kelsos) and the [MusicBee Remote](https://github.com/musicbeeremote) project.
+  Original MBCR plugin by [Konstantinos Paparas](https://github.com/kelsos) and the [MusicBee Remote](https://github.com/musicbeeremote) project.
