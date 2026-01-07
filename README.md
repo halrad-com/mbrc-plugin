@@ -1,17 +1,3 @@
-# mbrc-plugin
-MusicBee Remote Control Plugin 
-# MBXRemote
-
-  Windows desktop client for MusicBee Remote Plugin.
-
-  **[Download & Documentation](https://halrad.com/MBXRemote/)**
-
-  Part of [HALRAD Research](https://halrad.com)
-
-  # MusicBee Remote Control Plugin
-
-  **[More info](https://halrad.com/MBXRemote/plugin.html)**
-
 # MusicBee Remote Control Plugin (MBRC)
 
   MusicBee plugin that enables remote control of your music library over your network.
