@@ -6,7 +6,7 @@
 
   ## About
 
-  This is a fork of the original [MBRC Plugin](https://github.com/musicbeeremote/plugin) by Konstantinos Paparas (kelsos).
+  This is a fork of the original [MBRC Plugin](https://github.com/musicbeeremote/plugin) by (kelsos).
 
   ## What it does
 
