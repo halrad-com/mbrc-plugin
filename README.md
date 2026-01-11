@@ -40,7 +40,7 @@ Enhancements Over Standard Plugin
 
   Windows desktop client for MusicBee Remote Plugin.
 
-  **[Download & Documentation](https://halrad.com/MBXRemote/)**
+  **[Download | Sources & Documentation](https://halrad.com/MBXRemote/)**
 
   Part of [HALRAD Research](https://halrad.com)
 
